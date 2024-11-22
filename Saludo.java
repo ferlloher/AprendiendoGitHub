@@ -11,6 +11,8 @@ if (edad<18){
 System.out.println("Hola " + nombre + " eres bastante joven.");
 }else{
 System.out.println("Hola " + nombre + " Viejo.");
+
+  Ssytem.out.println("Esto es una preuba de sincronizacion")
 }
 }
 
