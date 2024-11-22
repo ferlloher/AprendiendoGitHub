@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public void saludarConEdad(){
 Scanner scan = new Scanner(System.in);
 System.out.print("Dime tu nombre: ");
@@ -8,7 +10,7 @@ scan.nextLine();
 if (edad<18){
 System.out.println("Hola " + nombre + " eres bastante joven.");
 }else{
-System.out.println("Hola " + nombre + " espero que tengas un gran día.");
+System.out.println("Hola " + nombre + " Viejo.");
 }
 }
 
