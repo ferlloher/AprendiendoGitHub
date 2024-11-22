@@ -12,7 +12,8 @@ System.out.println("Hola " + nombre + " eres bastante joven.");
 }else{
 System.out.println("Hola " + nombre + " Viejo.");
 
-  Ssytem.out.println("Esto es una preuba de sincronizacion")
 }
+
+  System.out.println("Esto es una prueba de sincronizacion")
 }
 
